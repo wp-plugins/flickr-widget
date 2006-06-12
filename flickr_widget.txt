@@ -1,4 +1,4 @@
-= FLickr Widget =
+= Flickr Widget =
 tags: flickr, photos, photography, widget
 
 Homepage: http://donncha.wordpress.com/flickr-widget/
